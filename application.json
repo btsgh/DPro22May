@@ -18,6 +18,46 @@
   "icon": "team",
   "pages": [
     {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Assets",
+      "isDefault": false
+    },
+    {
+      "id": "Employees",
+      "isDefault": false
+    },
+    {
+      "id": "Send Messages",
+      "isDefault": false
+    },
+    {
+      "id": "Customer Data",
+      "isDefault": false
+    },
+    {
+      "id": "Bugs and Issues",
+      "isDefault": false
+    },
+    {
+      "id": "Submit new order",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": false
+    },
+    {
+      "id": "Admin",
+      "isDefault": false
+    },
+    {
+      "id": "My orders",
+      "isDefault": false
+    },
+    {
       "id": "Schedule",
       "isDefault": false
     },
